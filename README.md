@@ -8,13 +8,13 @@ CI/CD is configured via GitHub Actions to build and deploy automatically.
 
 ---
 
-## 🚀 Endpoint
+ Endpoint
 
 - `GET /health` → Returns `{"status": "OK"}`
 
 ---
 
-## 🧪 Run Locally
+## Run Locally
 
 ```bash
 # Install dependencies
